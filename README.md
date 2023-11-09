@@ -1,8 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3&height=120&section=header"/>
+
 
 ## Olá, sou a Maristela 👋
-## Tenho 27 anos 😘 
 ##
 
 <div style="display: inline_block"><br>
