@@ -2,6 +2,7 @@
 
 
 ## Olá, sou a Maristela 👋
+Sou empreendedora no ramo de e-commerce, estudante de tecnologia e buscando uma transição de carreira para área de desenvolvimento Mobile!
 ##
 
 <div style="display: inline_block"><br>
