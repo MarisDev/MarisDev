@@ -1,10 +1,10 @@
 <h1>HELLO WORLD!</h1>
 
-<h3>sou a Maristela 👋</h3>
-Sou empreendedora no ramo de e-commerce, estudante de tecnologia e buscando uma transição de carreira para área de desenvolvimento Mobile!
+<h3>Sou a Mari 👋</h3>
+Sou empreendedora no ramo de e-commerce, estudante de tecnologia e buscando uma transição de carreira para área de desenvolvimento Mobile Nativo Android!
 
 ##
-<strong>Tecnologias mais usadas no momento:</strong>
+<strong>Tecnologias mais usadas no dia a dia:</strong>
 <div style="display: inline_block"><br>
 
    <img width="64" height="64" src="https://img.icons8.com/nolan/64/android-studio--v3.png" alt="android-studio--v3"/>
