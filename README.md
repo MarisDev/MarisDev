@@ -22,6 +22,5 @@ Sou empreendedora no ramo de e-commerce, estudante de tecnologia e buscando uma 
 </div>
 
 
-##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarisDev&bg_color=000000&color=a358fd&line=7300ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
