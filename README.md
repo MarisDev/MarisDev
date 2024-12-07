@@ -7,9 +7,6 @@ Sou empreendedora no ramo de e-commerce, estudante de tecnologia e buscando uma 
 <strong>Tecnologias mais usadas no dia a dia:</strong>
 <div style="display: inline_block"><br>
 
-   <img width="64" height="64" src="https://img.icons8.com/nolan/64/android-studio--v3.png" alt="android-studio--v3"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/kotlin.png" alt="kotlin"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
 
 </div>
 
