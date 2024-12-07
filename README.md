@@ -1,7 +1,7 @@
 <h1>HELLO WORLD!</h1>
 
 <h3>Sou a Mari 👋</h3>
-Sou empreendedora no ramo de e-commerce, estudante de tecnologia e buscando uma transição de carreira para área de desenvolvimento Mobile Nativo Android!
+
 
 ##
 <strong>Tecnologias mais usadas no dia a dia:</strong>
