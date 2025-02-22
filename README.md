@@ -4,7 +4,7 @@
 
 
 ##
-Estudante de Engenharia de software
+Estudante de Engenharia de software <br/>
 Minha trajetória combina conhecimento técnico e estudos com habilidades práticas, adquiridas por meio de projetos que envolvem design de sistemas inteligentes e otimização de processos.
 
 </div>
