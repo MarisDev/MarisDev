@@ -1,12 +1,11 @@
 <h1>HELLO WORLD!</h1>
 
-<h3>Sou a Mari 👋</h3>
+<h3>Sou a Maristela Machado 👋</h3>
 
 
 ##
-<strong>Tecnologias mais usadas no dia a dia:</strong>
-<div style="display: inline_block"><br>
-
+Estudante de Engenharia de software
+Minha trajetória combina conhecimento técnico e estudos com habilidades práticas, adquiridas por meio de projetos que envolvem design de sistemas inteligentes e otimização de processos.
 
 </div>
 
