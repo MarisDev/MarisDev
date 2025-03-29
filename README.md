@@ -2,7 +2,7 @@
 <h1>HELLO WORLD!</h1>
 👋 Eu sou a Maris
 
-🎓 Cursando Bacharelado em Engenharia de Software | Apaixonada por tecnologias como IoT, Machine Learning e Dados.<br>
+🎓 Bacharelado em Engenharia de Software (curso em andamento) | Apaixonada por tecnologias como IoT, Machine Learning e Dados.<br>
 📚 Atualmente estudando Ciência de Dados, Sistemas Embarcados e automação.  
 🔭 Desenvolvendo projetos com Python, R e C/C++.  
 💡 Curiosa, criativa e sempre pronta pra aprender algo novo  
