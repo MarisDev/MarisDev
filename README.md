@@ -1,12 +1,12 @@
 ### 
 <h1>HELLO WORLD!</h1>
-👋 Eu sou a Maris
+👋 Eu sou a Maristela
 
 🎓 Bacharelado em Engenharia de Software (curso em andamento) | Apaixonada por tecnologias como IoT, Machine Learning e Dados.<br>
-📚 Atualmente estudando Ciência de Dados, Sistemas Embarcados e automação.  
-🔭 Desenvolvendo projetos com Python, R e C/C++.  
+📚 Atualmente estudando Ciência de Dados, Machine Learning.  
+🔭 No momento Desenvolvendo projetos com Python.  
 💡 Curiosa, criativa e sempre pronta pra aprender algo novo  
-🚀 Em busca de uma oportunidade como estagiária em tech (IoT / ML / DADOS)
+🚀 Em busca de uma oportunidade como estagiária em tech (IoT / ML / DADOS).
 
 ### 🛠️ Tecnologias que tenho conehcimento:
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
