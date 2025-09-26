@@ -2,7 +2,7 @@
 <h1>HELLO WORLD!</h1>
 👋 Eu sou a Mari
 
-🎓 Bacharelado em Engenharia de Software (curso em andamento) | Apaixonada pela área de Dados 🎲
+🎓 Bacharelado em Engenharia de Software (curso em andamento) | Apaixonada pela área de Dados 🎲<br>
 📚 Atualmente estudando também Engenharia de Dados.  
 🔭 No momento Desenvolvendo projetos com Python.  
 💡 Curiosa, criativa e sempre pronta pra aprender algo novo  
