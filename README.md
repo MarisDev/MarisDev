@@ -6,7 +6,7 @@
 📚 Atualmente estudando também Engenharia de Dados.  
 🔭 No momento Desenvolvendo projetos com Python.  
 💡 Curiosa, criativa e sempre pronta pra aprender algo novo  
-🚀 Em busca de uma oportunidade como estagiária na área de dados.
+🚀 Em busca de uma oportunidade como estagiária na área de dados ou desenvolvimento.
 
 ### 🛠️ Tecnologias que tenho conehcimento:
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
