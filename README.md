@@ -1,6 +1,6 @@
 ### 
 <h1>HELLO WORLD!</h1>
-👋 Eu sou a Mari
+👋 Eu sou a Maris
 
 🎓 Bacharelado em Engenharia de Software (curso em andamento) | Apaixonada pela área de Dados 🎲<br>
 📚 Atualmente estudando também Engenharia de Dados.  
