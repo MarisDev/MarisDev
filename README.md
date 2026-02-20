@@ -3,7 +3,7 @@
 👋 Eu sou a Maris
 
 🎓 Bacharelado em Engenharia de Software (curso em andamento) | Apaixonada pela área de Dados 🎲<br>
-📚 Atualmente estudando também Engenharia de Dados.  
+📚 Atualmente estudando também Engenharia de Dados e ML.  
 🔭 No momento Desenvolvendo projetos com Python.  
 💡 Curiosa, criativa e sempre pronta pra aprender algo novo  
 🚀 Em busca de uma oportunidade como estagiária na área de dados ou desenvolvimento.
